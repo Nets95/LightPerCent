@@ -1,0 +1,9 @@
+D:\C#\DevCom\Light\Light\bin\Debug\Light.exe.config
+D:\C#\DevCom\Light\Light\bin\Debug\Light.exe
+D:\C#\DevCom\Light\Light\bin\Debug\Light.pdb
+D:\C#\DevCom\Light\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+D:\C#\DevCom\Light\Light\obj\Debug\Light.Form1.resources
+D:\C#\DevCom\Light\Light\obj\Debug\Light.Properties.Resources.resources
+D:\C#\DevCom\Light\Light\obj\Debug\Light.csproj.GenerateResource.Cache
+D:\C#\DevCom\Light\Light\obj\Debug\Light.exe
+D:\C#\DevCom\Light\Light\obj\Debug\Light.pdb
